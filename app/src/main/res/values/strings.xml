@@ -21,10 +21,24 @@
     <string name="position">Position</string>
     <string name="select_an_avatar">Select an Avatar</string>
     <string name="android_trivia">Android Trivia</string>
-    <string name="about_text">Android Trivia will help remind you of important concepts you have learned and will learn in Android development.\n\nConsider modifying the questions and graphics to make this game your own!</string>
-    <string name="rules_text">Select the answer from the options given. Each time you get an answer correct, you advance to the next question.\n\nIf you get the answer wrong, your game ends! You can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
-    <string name="rules">Rules</string>
-    <string name="about">About</string>
+    <string name="about_text">ชื่อ : นส.ฉัตติกา ศรีสุข   ชื่อเล่น : นํ้าผึ้ง
+ปัจจุบันอาศัยอยู่ที่
+บ้านเลขที่ 1/1025 ต.หนองไผ่ล้อม อ.เมือง จ.นครราชสีมา 30000
+อารหารที่ชอบ  : ก๋วยเตี๋ยวต้มยำ สีที่ชอบ : สีนํ้าเงิน
+งานอดิเรก : วาดรูป
+จบจาก : โรงเรียนสุรนารีวิทยา
+ปัจจุบันศึกษาที่ : มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
+คณะ : วิทยาศาสตร์และศิลปศาสตร์  สาขา : วิทยาการคอมพิวเตอร์
+!</string>
+    <string name="rules_text">facebook : chattika srisook
+               \n\nline id : 0981879502
+
+
+
+\n\nTel. : 0930694845
+</string>
+    <string name="rules">Contact</string>
+    <string name="about">AboutMe</string>
     <string name="trivia_hint">Trivia Hint</string>
     <string name="title_android_trivia_question">Android Trivia (%1$d/%2$d)</string>
     <string name="title_about_trivia">About Trivia</string>
@@ -34,4 +48,6 @@
     <string name="congratulations">Congratulations!</string>
     <string name="share">Share</string>
     <string name="sharing_not_available">Sharing Not Available</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
