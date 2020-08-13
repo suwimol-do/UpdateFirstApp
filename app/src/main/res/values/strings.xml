@@ -21,21 +21,18 @@
     <string name="position">Position</string>
     <string name="select_an_avatar">Select an Avatar</string>
     <string name="android_trivia">Android Trivia</string>
-    <string name="about_text">ชื่อ : นส.ฉัตติกา ศรีสุข   ชื่อเล่น : นํ้าผึ้ง
-ปัจจุบันอาศัยอยู่ที่
-บ้านเลขที่ 1/1025 ต.หนองไผ่ล้อม อ.เมือง จ.นครราชสีมา 30000
-อารหารที่ชอบ  : ก๋วยเตี๋ยวต้มยำ สีที่ชอบ : สีนํ้าเงิน
-งานอดิเรก : วาดรูป
-จบจาก : โรงเรียนสุรนารีวิทยา
+    <string name="about_text">ชื่อ : นส.สุวิมล ดงกระโทก
+อารหารที่ชอบ  : ก๋วยเตี๋ยวต้มยำ สีที่ชอบ : สีฟ้า
+งานอดิเรก : อ่านนิยาย
 ปัจจุบันศึกษาที่ : มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
 คณะ : วิทยาศาสตร์และศิลปศาสตร์  สาขา : วิทยาการคอมพิวเตอร์
 !</string>
-    <string name="rules_text">facebook : chattika srisook
-               \n\nline id : 0981879502
+    <string name="rules_text">facebook : Suwimol Dongkrathok
+               \n\nline id : 0908256037
 
 
 
-\n\nTel. : 0930694845
+\n\nTel. : 0908256037
 </string>
     <string name="rules">Contact</string>
     <string name="about">AboutMe</string>
